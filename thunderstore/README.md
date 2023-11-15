@@ -19,7 +19,7 @@ To install the Epic Valheim Mod, follow these steps:
 3. Download and install the mod.
 4. Restart Valheim to apply the changes.
 
-For a step-by-step guide, watch our installation tutorial on [YouTube](https://www.youtube.com/channel/UCwIlBmrpnBKbof0yGR4sKAA) and [Steam Group](https://steamcommunity.com/groups/epic-vales).
+For a step-by-step guide, watch our installation tutorial on [YouTube](https://www.youtube.com/@EpicVales) and [Steam Group](https://steamcommunity.com/groups/epic-vales).
 
 ## Usage
 
@@ -27,7 +27,7 @@ After installation, you will find new game mechanics and items. Use the Rune For
 
 ## Updates
 
-Stay tuned for updates and new features by following our [Steam group](https://steamcommunity.com/groups/epic-vales) or [YouTube channel](https://www.youtube.com/channel/UCwIlBmrpnBKbof0yGR4sKAA).
+Stay tuned for updates and new features by following our [Steam group](https://steamcommunity.com/groups/epic-vales) or [YouTube channel](https://www.youtube.com/@EpicVales).
 
 ## Support
 
