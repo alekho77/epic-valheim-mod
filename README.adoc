@@ -1,5 +1,8 @@
 = Epic Valheim Mod
-Author: [Ваше Имя]
+
+image:icon.png[icon, 64, 64]
+
+Author: Alekho77
 
 == Description
 Epic Valheim Mod is a comprehensive mod pack for the popular game Valheim, inspired by Norse mythology and the rich environment of the game. This mod introduces new gameplay mechanics, including enhanced item enchantments, creature modifications, and a unique rune system, all while maintaining the game's original balance and feel.
