@@ -1,1 +1,45 @@
-# epic-valheim-mod
+= Epic Valheim Mod
+Author: [Ваше Имя]
+
+== Description
+Epic Valheim Mod is a comprehensive mod pack for the popular game Valheim, inspired by Norse mythology and the rich environment of the game. This mod introduces new gameplay mechanics, including enhanced item enchantments, creature modifications, and a unique rune system, all while maintaining the game's original balance and feel.
+
+== Features
+* Runic system based on ancient Norse symbols.
+* Enhanced item enchantment process using runic stones.
+* Creature modifications for balanced gameplay.
+* New crafting stations for runic and enchanting activities.
+* Customizable mod settings for personalized gameplay experience.
+
+== Installation
+[TODO: Instructions on how to install the mod, possibly including a link to a YouTube tutorial or a written guide.]
+
+== Usage
+The mod is designed to seamlessly integrate into the Valheim experience. Here are some key aspects:
+
+* Crafting Runic Stones at the Rune Forge.
+* Enchanting items with magical properties at the Enchanting Table.
+* Collecting materials and crafting components across various biomes.
+
+For more detailed instructions, visit our YouTube channel link:https://www.youtube.com/channel/UCwIlBmrpnBKbof0yGR4sKAA[Epic Vales] and Steam group link:https://steamcommunity.com/groups/epic-vales[Epic Vales].
+
+== Building from Source
+This project can be built using Visual Studio Code. Ensure you have the following set up:
+
+* .NET Core SDK 7
+* BepInEx framework
+* References to Valheim's assemblies
+
+For detailed build instructions, see [TODO: placeholder for build instructions link].
+
+== Contributing
+Contributions to the Epic Valheim Mod are welcome! Please read our contribution guidelines [TODO: placeholder for contribution guidelines link] for more information on how to contribute.
+
+== License
+This project is licensed under the Creative Commons Zero v1.0 Universal (CC0) - see the [LICENSE](LICENSE) file for details.
+
+== Acknowledgments
+A special thank you to the Valheim modding community and everyone who has supported the development of this mod.
+
+== Contact
+For questions, suggestions, and feedback, join our link:https://steamcommunity.com/groups/epic-vales[Steam group] or follow us on link:https://www.youtube.com/channel/UCwIlBmrpnBKbof0yGR4sKAA[YouTube].
