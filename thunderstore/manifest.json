@@ -1,0 +1,10 @@
+{
+    "name": "EpicValheimMod",
+    "version_number": "0.0.1",
+    "website_url": "https://github.com/alekho77/epic-valheim-mod",
+    "description": "This mod introduces enhanced magical features and mythical elements into Valheim, bringing new runic magic, crafting stations, and creature modifications.",
+    "dependencies": [
+        "denikson-BepInExPack_Valheim-5.4.2202"
+    ]
+  }
+  

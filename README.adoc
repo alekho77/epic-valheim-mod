@@ -1,48 +1,51 @@
 = Epic Valheim Mod
+:toc: macro
+:toc-title: Contents
+:toclevels: 1
 
-image:icon.png[icon, 64, 64]
-
-Author: Alekho77
+toc::[]
 
 == Description
-Epic Valheim Mod is a comprehensive mod pack for the popular game Valheim, inspired by Norse mythology and the rich environment of the game. This mod introduces new gameplay mechanics, including enhanced item enchantments, creature modifications, and a unique rune system, all while maintaining the game's original balance and feel.
+image::icon.png[EpicVales, align="left", width=64px, role="left"]
+Epic Valheim Mod is a comprehensive modification for Valheim, enhancing the game with new magical and mythical features. Drawing inspiration from Norse mythology, this mod aims to add depth to the gameplay while preserving the core mechanics of Valheim.
 
 == Features
-* Runic system based on ancient Norse symbols.
-* Enhanced item enchantment process using runic stones.
-* Creature modifications for balanced gameplay.
-* New crafting stations for runic and enchanting activities.
-* Customizable mod settings for personalized gameplay experience.
+* Advanced enchantment system using runic magic.
+* Dynamic creature adjustments for a balanced game experience.
+* New crafting stations like Rune Forge and Enchanting Table.
+* Integration with Valheim's lore and world setting.
 
 == Installation
-[TODO: Instructions on how to install the mod, possibly including a link to a YouTube tutorial or a written guide.]
+For detailed installation instructions, visit our link:https://www.youtube.com/channel/UCwIlBmrpnBKbof0yGR4sKAA[YouTube channel] or refer to the instructions below:
+
+[TODO: Add detailed installation steps]
 
 == Usage
-The mod is designed to seamlessly integrate into the Valheim experience. Here are some key aspects:
+This mod integrates seamlessly into Valheim, offering:
 
-* Crafting Runic Stones at the Rune Forge.
-* Enchanting items with magical properties at the Enchanting Table.
-* Collecting materials and crafting components across various biomes.
+* Crafting of magical items with runes.
+* Exploration of Norse mythology through gameplay.
+* Enhanced player progression with balanced challenges.
 
-For more detailed instructions, visit our YouTube channel link:https://www.youtube.com/channel/UCwIlBmrpnBKbof0yGR4sKAA[Epic Vales] and Steam group link:https://steamcommunity.com/groups/epic-vales[Epic Vales].
+For more information, see our gameplay guide on link:https://www.youtube.com/channel/UCwIlBmrpnBKbof0yGR4sKAA[YouTube] and link:https://steamcommunity.com/groups/epic-vales[Steam group].
 
 == Building from Source
-This project can be built using Visual Studio Code. Ensure you have the following set up:
+Epic Valheim Mod can be built using Visual Studio Code. Make sure you have the following setup:
 
-* .NET Core SDK 7
+* .NET Core SDK
 * BepInEx framework
 * References to Valheim's assemblies
 
-For detailed build instructions, see [TODO: placeholder for build instructions link].
+[TODO: Add detailed build instructions or link to a guide]
 
 == Contributing
-Contributions to the Epic Valheim Mod are welcome! Please read our contribution guidelines [TODO: placeholder for contribution guidelines link] for more information on how to contribute.
-
-== License
-This project is licensed under the Creative Commons Zero v1.0 Universal (CC0) - see the [LICENSE](LICENSE) file for details.
+We welcome contributions! For guidelines on how to contribute, please read [TODO: placeholder for contribution guidelines link].
 
 == Acknowledgments
-A special thank you to the Valheim modding community and everyone who has supported the development of this mod.
+A special thanks to the Valheim modding community and everyone who has supported the development of Epic Valheim Mod.
+
+== License
+This project is released under the Creative Commons Zero v1.0 Universal (CC0) - see the link:LICENSE[LICENSE] file for details.
 
 == Contact
-For questions, suggestions, and feedback, join our link:https://steamcommunity.com/groups/epic-vales[Steam group] or follow us on link:https://www.youtube.com/channel/UCwIlBmrpnBKbof0yGR4sKAA[YouTube].
+Join our discussion on link:https://steamcommunity.com/groups/epic-vales[Steam group] or follow updates on link:https://www.youtube.com/channel/UCwIlBmrpnBKbof0yGR4sKAA[YouTube].
