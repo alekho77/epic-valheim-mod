@@ -16,7 +16,7 @@ Epic Valheim Mod is a comprehensive modification for Valheim, enhancing the game
 * Integration with Valheim's lore and world setting.
 
 == Installation
-For detailed installation instructions, visit our link:https://www.youtube.com/channel/UCwIlBmrpnBKbof0yGR4sKAA[YouTube channel] or refer to the instructions below:
+For detailed installation instructions, visit our link:https://www.youtube.com/@EpicVales[YouTube channel] or refer to the instructions below:
 
 [TODO: Add detailed installation steps]
 
@@ -27,7 +27,7 @@ This mod integrates seamlessly into Valheim, offering:
 * Exploration of Norse mythology through gameplay.
 * Enhanced player progression with balanced challenges.
 
-For more information, see our gameplay guide on link:https://www.youtube.com/channel/UCwIlBmrpnBKbof0yGR4sKAA[YouTube] and link:https://steamcommunity.com/groups/epic-vales[Steam group].
+For more information, see our gameplay guide on link:https://www.youtube.com/@EpicVales[YouTube] and link:https://steamcommunity.com/groups/epic-vales[Steam group].
 
 == Building from Source
 Epic Valheim Mod can be built using Visual Studio Code. Make sure you have the following setup:
@@ -48,4 +48,4 @@ A special thanks to the Valheim modding community and everyone who has supported
 This project is released under the Creative Commons Zero v1.0 Universal (CC0) - see the link:LICENSE[LICENSE] file for details.
 
 == Contact
-Join our discussion on link:https://steamcommunity.com/groups/epic-vales[Steam group] or follow updates on link:https://www.youtube.com/channel/UCwIlBmrpnBKbof0yGR4sKAA[YouTube].
+Join our discussion on link:https://steamcommunity.com/groups/epic-vales[Steam group] or follow updates on link:https://www.youtube.com/@EpicVales[YouTube].
